@@ -1,5 +1,5 @@
 import streamlit as st 
-from tensorflow as tf
+import tensorflow as tf
 from sklearn.preprocessing import StandardScaler, OneHotEncoder, LabelEncoder
 import pickle
 import pandas as pd
